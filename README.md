@@ -1,0 +1,2 @@
+# KISS
+Starter programming 
