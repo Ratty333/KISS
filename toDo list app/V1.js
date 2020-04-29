@@ -20,5 +20,7 @@ console.log(toDo);
 // adding an item to a specific loacation
 toDo.splice(2,0,'Bread', 'Flour');
 console.log(toDo);
-toDo.unshift('crisps'); // adds an items to the start .pop removes an item from the start
+toDo.unshift('crisps'); // adds an item to the start .pop removes an item from the start
+console.log(toDo);
+toDo.push('Merlot'); // adds an item to the end
 console.log(toDo);
